@@ -1,3 +1,4 @@
+echo "Program starting"
 function guess {
 	ls -l | grep ^- | wc -l
 }
