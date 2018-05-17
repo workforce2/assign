@@ -1,3 +1,3 @@
 # Guessing Game 
-Thu May 17 21:17:07 DST 2018
-29
+## Date and time: Thu May 17 21:56:56 DST 2018
+## Number of lines: 29
